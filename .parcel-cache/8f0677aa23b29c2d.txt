@@ -18,12 +18,12 @@
 82C:\Users\louka\Documents\CoursMMI\SAE-Chart.js\node_modules\mdn-data\css\readme.md133469773641269463 0
 85C:\Users\louka\Documents\CoursMMI\SAE-Chart.js\node_modules\core-js\es\error\index.js133469773601367096 0
 84C:\Users\louka\Documents\CoursMMI\SAE-Chart.js\node_modules\abortcontroller-polyfill133469773586398327 1
-51C:\Users\louka\Documents\CoursMMI\SAE-Chart.js\dist133470238315259794 1
+51C:\Users\louka\Documents\CoursMMI\SAE-Chart.js\dist133470319237769322 1
 80C:\Users\louka\Documents\CoursMMI\SAE-Chart.js\node_modules\weak-lru-cache\tests133469773650630218 1
 86C:\Users\louka\Documents\CoursMMI\SAE-Chart.js\node_modules\core-js\full\math\asinh.js133469773611185945 0
 92C:\Users\louka\Documents\CoursMMI\SAE-Chart.js\node_modules\core-js\features\regexp\split.js133469773607179706 0
 85C:\Users\louka\Documents\CoursMMI\SAE-Chart.js\node_modules\uuid\dist\esm-node\md5.js133469773650310207 0
-60C:\Users\louka\Documents\CoursMMI\SAE-Chart.js\src\graph1.js133470238310446777 0
+60C:\Users\louka\Documents\CoursMMI\SAE-Chart.js\src\graph1.js133470319238726539 0
 89C:\Users\louka\Documents\CoursMMI\SAE-Chart.js\node_modules\core-js\full\iterator\find.js133469773610785917 0
 98C:\Users\louka\Documents\CoursMMI\SAE-Chart.js\node_modules\caniuse-lite\dist\unpacker\browsers.js133469773594879233 0
 100C:\Users\louka\Documents\CoursMMI\SAE-Chart.js\node_modules\node-gyp-build-optional-packages\LICENSE133469773642072122 0
@@ -3558,7 +3558,7 @@
 93C:\Users\louka\Documents\CoursMMI\SAE-Chart.js\node_modules\postcss-value-parser\package.json133469773642954148 0
 96C:\Users\louka\Documents\CoursMMI\SAE-Chart.js\node_modules\core-js\modules\es.string.italics.js133469773617746667 0
 79C:\Users\louka\Documents\CoursMMI\SAE-Chart.js\node_modules\is-extglob\index.js133469773638308870 0
-73C:\Users\louka\Documents\CoursMMI\SAE-Chart.js\dist\index.3e2d7f63.js.map133470238314521262 0
+73C:\Users\louka\Documents\CoursMMI\SAE-Chart.js\dist\index.3e2d7f63.js.map133470293170675771 0
 93C:\Users\louka\Documents\CoursMMI\SAE-Chart.js\node_modules\domelementtype\lib\esm\index.d.ts133469773636388760 0
 95C:\Users\louka\Documents\CoursMMI\SAE-Chart.js\node_modules\postcss-value-parser\lib\index.d.ts133469773642873954 0
 85C:\Users\louka\Documents\CoursMMI\SAE-Chart.js\node_modules\core-js\es\string\link.js133469773602929090 0
@@ -9194,7 +9194,7 @@
 107C:\Users\louka\Documents\CoursMMI\SAE-Chart.js\node_modules\caniuse-lite\data\features\css-cascade-scope.js133469773587838488 0
 82C:\Users\louka\Documents\CoursMMI\SAE-Chart.js\node_modules\@babel\runtime\LICENSE133469773537309011 0
 110C:\Users\louka\Documents\CoursMMI\SAE-Chart.js\node_modules\caniuse-lite\data\features\css-case-insensitive.js133469773587838488 0
-62C:\Users\louka\Documents\CoursMMI\SAE-Chart.js\dist\index.html133470238314334565 0
+62C:\Users\louka\Documents\CoursMMI\SAE-Chart.js\dist\index.html133470293167594558 0
 108C:\Users\louka\Documents\CoursMMI\SAE-Chart.js\node_modules\caniuse-lite\data\features\css-color-function.js133469773587838488 0
 109C:\Users\louka\Documents\CoursMMI\SAE-Chart.js\node_modules\caniuse-lite\data\features\css-conic-gradients.js133469773587838488 0
 105C:\Users\louka\Documents\CoursMMI\SAE-Chart.js\node_modules\caniuse-lite\data\features\css-containment.js133469773587918487 0
@@ -11169,8 +11169,8 @@
 75C:\Users\louka\Documents\CoursMMI\SAE-Chart.js\node_modules\.bin\semver.ps1133469773535548826 0
 69C:\Users\louka\Documents\CoursMMI\SAE-Chart.js\node_modules\.bin\uuid133469773535708837 0
 73C:\Users\louka\Documents\CoursMMI\SAE-Chart.js\node_modules\.bin\uuid.cmd133469773535708837 0
-69C:\Users\louka\Documents\CoursMMI\SAE-Chart.js\dist\index.129f578a.js133470238314334565 0
-73C:\Users\louka\Documents\CoursMMI\SAE-Chart.js\dist\index.129f578a.js.map133470238314521262 0
-69C:\Users\louka\Documents\CoursMMI\SAE-Chart.js\dist\index.3e2d7f63.js133470238314334565 0
-69C:\Users\louka\Documents\CoursMMI\SAE-Chart.js\dist\index.ad096df2.js133470238314934818 0
-73C:\Users\louka\Documents\CoursMMI\SAE-Chart.js\dist\index.ad096df2.js.map133470238315024832 0
+69C:\Users\louka\Documents\CoursMMI\SAE-Chart.js\dist\index.129f578a.js133470293170528060 0
+73C:\Users\louka\Documents\CoursMMI\SAE-Chart.js\dist\index.129f578a.js.map133470293170665853 0
+69C:\Users\louka\Documents\CoursMMI\SAE-Chart.js\dist\index.3e2d7f63.js133470293170528060 0
+69C:\Users\louka\Documents\CoursMMI\SAE-Chart.js\dist\index.ad096df2.js133470319237439274 0
+73C:\Users\louka\Documents\CoursMMI\SAE-Chart.js\dist\index.ad096df2.js.map133470319237559315 0

@@ -8,9 +8,6 @@ req.addEventListener("load", evt => {
     data = data[2].data
     console.log(data);
 
-    //Données fictives
-    let tab1 = [50, 42, 8];
-
     //Pour rechercher le nom d'un truc
     // const total = data.filter((test)=> test.solver_id == 17);
     // console.log(total);
@@ -20,7 +17,7 @@ req.addEventListener("load", evt => {
 
     //Mettre dans un tableau toutes les valeurs où le status est SAT ou UNSAT
     let total = [];
-    total = data.filter((test)=> test.status == "SAT" | "UNSAT");
+    total = data.filter((test)=> test.status == "SAT" | test.status == "UNSAT");
     console.log(total);
     nbtot = total.length;
     console.log(nbtot);
@@ -112,8 +109,14 @@ req.addEventListener("load", evt => {
 
 
 
-
+    //Construction du tableau
     (async function () {
+
+
+        //
+        let tabPourcent = tabDonut.map(v => v*100/nbtot)
+
+
         new Chart(
             document.getElementById('graph1'),
             {
@@ -123,7 +126,7 @@ req.addEventListener("load", evt => {
                     datasets: [
                         {
                             label: 'Pourcentage',
-                            data: tabDonut,
+                            data: tabPourcent,
                         }
                     ]
                 },
