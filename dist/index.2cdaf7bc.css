@@ -1,0 +1,32 @@
+* {
+  margin: 0;
+  padding: 0;
+  font-family: Montserrat;
+}
+
+body {
+  background: linear-gradient(0deg, #ecbfe0 0%, #92a4c8 100%);
+}
+
+.lefooter {
+  justify-content: center;
+  align-items: center;
+  margin: auto;
+  padding: 50px;
+  display: flex;
+}
+
+footer {
+  background-color: #0000001a;
+}
+
+.sae {
+  background-color: #0000001a;
+  justify-content: center;
+  align-items: center;
+  margin: auto;
+  padding: 50px;
+  display: flex;
+}
+
+/*# sourceMappingURL=index.2cdaf7bc.css.map */

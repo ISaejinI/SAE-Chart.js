@@ -1,0 +1,30 @@
+*{
+    font-family: "Montserrat";
+    padding: 0;
+    margin: 0;
+}
+
+body{
+    background: linear-gradient(0deg, rgba(236,191,224,1) 0%, rgba(146,164,200,1) 100%);
+}
+
+.lefooter{
+    display: flex;
+    align-items: center;
+    margin: auto;
+    justify-content: center;
+    padding: 50px;
+}
+
+footer{
+    background-color: rgba(0, 0, 0, 0.1);
+}
+
+.sae{
+    background-color: rgba(0, 0, 0, 0.1);
+    padding: 50px;
+    display: flex;
+    align-items: center;
+    margin: auto;
+    justify-content: center;
+}
