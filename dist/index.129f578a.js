@@ -575,6 +575,15 @@ function hmrAccept(bundle /*: ParcelRequire */ , id /*: string */ ) {
 }
 
 },{}],"lY7mj":[function(require,module,exports) {
+//Insertion des données
+const req = new XMLHttpRequest();
+let data = null;
+req.addEventListener("load", (evt)=>{
+    data = JSON.parse(req.responseText);
+    console.log(data);
+});
+req.open("GET", "https://www.cril.univ-artois.fr/~lecoutre/teaching/jssae/code5/results.json");
+req.send();
 
 },{}]},["kIOm8","lY7mj"], "lY7mj", "parcelRequire30ab")
 

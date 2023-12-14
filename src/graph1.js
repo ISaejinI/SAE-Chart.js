@@ -1,7 +1,6 @@
 import Chart from 'chart.js/auto'
 
-
-
+//Insertion des données
 const req = new XMLHttpRequest();
 let data=null;
 req.addEventListener("load", evt => {

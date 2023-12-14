@@ -578,6 +578,7 @@ function hmrAccept(bundle /*: ParcelRequire */ , id /*: string */ ) {
 var parcelHelpers = require("@parcel/transformer-js/src/esmodule-helpers.js");
 var _auto = require("chart.js/auto");
 var _autoDefault = parcelHelpers.interopDefault(_auto);
+//Insertion des données
 const req = new XMLHttpRequest();
 let data = null;
 req.addEventListener("load", (evt)=>{
